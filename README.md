@@ -2,6 +2,8 @@
 
 
 ## Overview
-UrbanDictionaryBuddy is a simple Kotlin app from Kilo-Loco, designed to introduce Swift developers to the fundamentals of Kotlin.
+UrbanDictionaryBuddy is an app built in Kotlin.
+
+- Includes Retrofit to pull from UrbanDictionary API.
 
 
